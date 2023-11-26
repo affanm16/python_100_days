@@ -1,0 +1,12 @@
+# #basic
+# print("input the value")
+# a=input()
+# print(a)
+# print("this is  a ",a)
+# #inputting a string(stntence)
+# b=input("enter your full name ")
+# print(b)
+#adding two numbers(string)
+x=input("input first number ")
+y=input("input second number ")
+print(x+y)
